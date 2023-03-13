@@ -4,7 +4,9 @@
     data() {
       return {
         message: 'Hello World!',
-        image: "img/hello-world.jpg"
+        image: "img/hello-world.jpg",
+        titleClass: "h1style",
+        imgClass: "imgstyle"
       }
     }
   }).mount('#app')
