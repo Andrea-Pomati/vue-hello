@@ -3,8 +3,8 @@
   createApp({
     data() {
       return {
-        message: 'Hello World!'
-        image: 
+        message: 'Hello World!',
+        image: "img/hello-world.jpg"
       }
     }
   }).mount('#app')
